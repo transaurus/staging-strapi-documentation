@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstrapi_docs=self.webpackChunkstrapi_docs||[]).push([[1534],{15567:s=>{s.exports=JSON.parse('{"tag":{"label":"upgrades","permalink":"/tags/upgrades","allTagsPath":"/tags","count":1,"items":[{"id":"cms/upgrades","title":"Upgrades","description":"Learn more about Strapi 5\'s upgrade process","permalink":"/cms/upgrades"}],"unlisted":false}}')}}]);

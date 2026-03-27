@@ -1,0 +1,81 @@
+/** Base: General Styles */
+
+@use './tokens.scss' as *;
+@use './tokens-overrides' as *;
+@use './mixins' as *;
+
+:root {
+  --custom-selection-background-color: var(--strapi-primary-600);
+}
+
+::selection {
+  background-color:  var(--custom-selection-background-color);
+  color: var(--custom-selection-color, var(--strapi-neutral-0));
+}
+
+main {
+  article:first-child:not(.col):not(.custom-doc-card),
+  article:first-child:not(.col) + nav {
+    max-width: 608px;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+  [class*="docRoot"]:not(:has(main)) {
+    width: 0;
+  }
+
+/**
+ * Experimental: Different identity based on URL
+ */
+// html[class*="docs-doc-id-dev-docs"] {
+//   .navbar {
+//     background-color: var(--strapi-primary-100);
+//   }
+// }
+
+// html[class*="docs-doc-id-cloud"] {
+//   .navbar {
+//     background-color: var(--strapi-secondary-100);
+//   }
+
+//   .markdown {
+//     a {
+//       color: var(--strapi-secondary-600);
+//     }
+//   }
+
+//   .theme-doc-sidebar-item-link:has(.menu__link--active) {
+//     background-color: var(--strapi-secondary-100);
+//   }
+// }
+
+/** Responsive */
+@include medium-up {
+  main {
+    article:first-child:not(.col),
+    article:first-child:not(.col) + nav {
+      max-width: 672px;
+      padding-left: 32px !important;
+      padding-right: 32px !important;
+    }
+  }
+
+  [class*="docRoot"]:not(:has(main)) {
+    width: 300px;
+  }
+}
+
+
+/** Dark mode */
+@include dark {
+  .container img[width="16"] {
+    /* 'Temporary' fix while we figure a way to display white icons in dark mode 😅  */
+    background-color: white;
+    border-radius: 2px;
+    padding: 1px;
+  }
+}

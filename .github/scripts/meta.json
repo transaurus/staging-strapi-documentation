@@ -1,0 +1,10 @@
+{
+  "sourceUrl": "https://github.com/strapi/documentation",
+  "branch": "main",
+  "docusaurusRoot": "docusaurus",
+  "configFile": "docusaurus/docusaurus.config.js",
+  "translateCommand": "yarn docusaurus write-translations",
+  "buildCommand": "yarn build",
+  "buildOutput": "build",
+  "packageManager": "yarn"
+}

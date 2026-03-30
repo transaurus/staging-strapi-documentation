@@ -1,0 +1,6 @@
+{
+  "logo.alt": {
+    "message": "Strapi Documentation Logo",
+    "description": "The alt text of navbar logo"
+  }
+}

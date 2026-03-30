@@ -1,0 +1,330 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.cmsSidebar.category.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for category Getting Started in sidebar cmsSidebar"
+  },
+  "sidebar.cmsSidebar.category.Features": {
+    "message": "Features",
+    "description": "The label for category Features in sidebar cmsSidebar"
+  },
+  "sidebar.cmsSidebar.category.Strapi plugins": {
+    "message": "Strapi plugins",
+    "description": "The label for category Strapi plugins in sidebar cmsSidebar"
+  },
+  "sidebar.cmsSidebar.category.Content APIs": {
+    "message": "Content APIs",
+    "description": "The label for category Content APIs in sidebar cmsSidebar"
+  },
+  "sidebar.cmsSidebar.category.REST API": {
+    "message": "REST API",
+    "description": "The label for category REST API in sidebar cmsSidebar"
+  },
+  "sidebar.cmsSidebar.category.Document Service API": {
+    "message": "Document Service API",
+    "description": "The label for category Document Service API in sidebar cmsSidebar"
+  },
+  "sidebar.cmsSidebar.category.Configurations": {
+    "message": "Configurations",
+    "description": "The label for category Configurations in sidebar cmsSidebar"
+  },
+  "sidebar.cmsSidebar.category.Admin panel": {
+    "message": "Admin panel",
+    "description": "The label for category Admin panel in sidebar cmsSidebar"
+  },
+  "sidebar.cmsSidebar.category.Database": {
+    "message": "Database",
+    "description": "The label for category Database in sidebar cmsSidebar"
+  },
+  "sidebar.cmsSidebar.category.Development": {
+    "message": "Development",
+    "description": "The label for category Development in sidebar cmsSidebar"
+  },
+  "sidebar.cmsSidebar.category.Backend customization": {
+    "message": "Backend customization",
+    "description": "The label for category Backend customization in sidebar cmsSidebar"
+  },
+  "sidebar.cmsSidebar.category.Admin panel customization": {
+    "message": "Admin panel customization",
+    "description": "The label for category Admin panel customization in sidebar cmsSidebar"
+  },
+  "sidebar.cmsSidebar.category.TypeScript": {
+    "message": "TypeScript",
+    "description": "The label for category TypeScript in sidebar cmsSidebar"
+  },
+  "sidebar.cmsSidebar.category.Command Line Interface": {
+    "message": "Command Line Interface",
+    "description": "The label for category Command Line Interface in sidebar cmsSidebar"
+  },
+  "sidebar.cmsSidebar.category.Plugins development": {
+    "message": "Plugins development",
+    "description": "The label for category Plugins development in sidebar cmsSidebar"
+  },
+  "sidebar.cmsSidebar.category.Basics": {
+    "message": "Basics",
+    "description": "The label for category Basics in sidebar cmsSidebar"
+  },
+  "sidebar.cmsSidebar.category.Admin Panel API": {
+    "message": "Admin Panel API",
+    "description": "The label for category Admin Panel API in sidebar cmsSidebar"
+  },
+  "sidebar.cmsSidebar.category.Server API": {
+    "message": "Server API",
+    "description": "The label for category Server API in sidebar cmsSidebar"
+  },
+  "sidebar.cmsSidebar.category.Guides": {
+    "message": "Guides",
+    "description": "The label for category Guides in sidebar cmsSidebar"
+  },
+  "sidebar.cmsSidebar.category.Upgrades": {
+    "message": "Upgrades",
+    "description": "The label for category Upgrades in sidebar cmsSidebar"
+  },
+  "sidebar.cmsSidebar.category.v4 → v5": {
+    "message": "v4 → v5",
+    "description": "The label for category v4 → v5 in sidebar cmsSidebar"
+  },
+  "sidebar.cmsSidebar.link.Introduction": {
+    "message": "Introduction",
+    "description": "The label for link Introduction in sidebar cmsSidebar, linking to /cms/configurations/admin-panel"
+  },
+  "sidebar.cmsSidebar.link.Admin panel behavior": {
+    "message": "Admin panel behavior",
+    "description": "The label for link Admin panel behavior in sidebar cmsSidebar, linking to /cms/configurations/admin-panel#admin-panel-behavior"
+  },
+  "sidebar.cmsSidebar.link.Admin panel server": {
+    "message": "Admin panel server",
+    "description": "The label for link Admin panel server in sidebar cmsSidebar, linking to /cms/configurations/admin-panel#admin-panel-server"
+  },
+  "sidebar.cmsSidebar.link.API tokens": {
+    "message": "API tokens",
+    "description": "The label for link API tokens in sidebar cmsSidebar, linking to /cms/configurations/admin-panel#api-tokens"
+  },
+  "sidebar.cmsSidebar.link.Audit Logs": {
+    "message": "Audit Logs",
+    "description": "The label for link Audit Logs in sidebar cmsSidebar, linking to /cms/configurations/admin-panel#audit-logs"
+  },
+  "sidebar.cmsSidebar.link.Authentication": {
+    "message": "Authentication",
+    "description": "The label for link Authentication in sidebar cmsSidebar, linking to /cms/configurations/admin-panel#authentication"
+  },
+  "sidebar.cmsSidebar.link.Feature flags": {
+    "message": "Feature flags",
+    "description": "The label for link Feature flags in sidebar cmsSidebar, linking to /cms/configurations/admin-panel#feature-flags"
+  },
+  "sidebar.cmsSidebar.link.Forgot password": {
+    "message": "Forgot password",
+    "description": "The label for link Forgot password in sidebar cmsSidebar, linking to /cms/configurations/admin-panel#forgot-password"
+  },
+  "sidebar.cmsSidebar.link.Rate limiting": {
+    "message": "Rate limiting",
+    "description": "The label for link Rate limiting in sidebar cmsSidebar, linking to /cms/configurations/admin-panel#rate-limiting"
+  },
+  "sidebar.cmsSidebar.link.Strapi AI": {
+    "message": "Strapi AI",
+    "description": "The label for link Strapi AI in sidebar cmsSidebar, linking to /cms/configurations/admin-panel#strapi-ai"
+  },
+  "sidebar.cmsSidebar.link.Transfer tokens": {
+    "message": "Transfer tokens",
+    "description": "The label for link Transfer tokens in sidebar cmsSidebar, linking to /cms/configurations/admin-panel#transfer-tokens"
+  },
+  "sidebar.cmsSidebar.link.Examples": {
+    "message": "Examples",
+    "description": "The label for link Examples in sidebar cmsSidebar, linking to /cms/configurations/admin-panel#configuration-examples"
+  },
+  "sidebar.cmsSidebar.doc.Admin panel": {
+    "message": "Admin panel",
+    "description": "The label for the doc item Admin panel in sidebar cmsSidebar, linking to the doc cms/features/admin-panel"
+  },
+  "sidebar.cmsSidebar.doc.Content Manager": {
+    "message": "Content Manager",
+    "description": "The label for the doc item Content Manager in sidebar cmsSidebar, linking to the doc cms/features/content-manager"
+  },
+  "sidebar.cmsSidebar.doc.Content Type Builder": {
+    "message": "Content Type Builder",
+    "description": "The label for the doc item Content Type Builder in sidebar cmsSidebar, linking to the doc cms/features/content-type-builder"
+  },
+  "sidebar.cmsSidebar.doc.API Tokens": {
+    "message": "API Tokens",
+    "description": "The label for the doc item API Tokens in sidebar cmsSidebar, linking to the doc cms/features/api-tokens"
+  },
+  "sidebar.cmsSidebar.doc.Audit Logs": {
+    "message": "Audit Logs",
+    "description": "The label for the doc item Audit Logs in sidebar cmsSidebar, linking to the doc cms/features/audit-logs"
+  },
+  "sidebar.cmsSidebar.doc.Content History": {
+    "message": "Content History",
+    "description": "The label for the doc item Content History in sidebar cmsSidebar, linking to the doc cms/features/content-history"
+  },
+  "sidebar.cmsSidebar.doc.Data Management": {
+    "message": "Data Management",
+    "description": "The label for the doc item Data Management in sidebar cmsSidebar, linking to the doc cms/features/data-management"
+  },
+  "sidebar.cmsSidebar.doc.Draft & Publish": {
+    "message": "Draft & Publish",
+    "description": "The label for the doc item Draft & Publish in sidebar cmsSidebar, linking to the doc cms/features/draft-and-publish"
+  },
+  "sidebar.cmsSidebar.doc.Internationalization (i18n)": {
+    "message": "Internationalization (i18n)",
+    "description": "The label for the doc item Internationalization (i18n) in sidebar cmsSidebar, linking to the doc cms/features/internationalization"
+  },
+  "sidebar.cmsSidebar.doc.Media Library": {
+    "message": "Media Library",
+    "description": "The label for the doc item Media Library in sidebar cmsSidebar, linking to the doc cms/features/media-library"
+  },
+  "sidebar.cmsSidebar.doc.Preview": {
+    "message": "Preview",
+    "description": "The label for the doc item Preview in sidebar cmsSidebar, linking to the doc cms/features/preview"
+  },
+  "sidebar.cmsSidebar.doc.Role-Based Access Control (RBAC)": {
+    "message": "Role-Based Access Control (RBAC)",
+    "description": "The label for the doc item Role-Based Access Control (RBAC) in sidebar cmsSidebar, linking to the doc cms/features/rbac"
+  },
+  "sidebar.cmsSidebar.doc.Releases": {
+    "message": "Releases",
+    "description": "The label for the doc item Releases in sidebar cmsSidebar, linking to the doc cms/features/releases"
+  },
+  "sidebar.cmsSidebar.doc.Review Workflows": {
+    "message": "Review Workflows",
+    "description": "The label for the doc item Review Workflows in sidebar cmsSidebar, linking to the doc cms/features/review-workflows"
+  },
+  "sidebar.cmsSidebar.doc.Single Sign-On (SSO)": {
+    "message": "Single Sign-On (SSO)",
+    "description": "The label for the doc item Single Sign-On (SSO) in sidebar cmsSidebar, linking to the doc cms/features/sso"
+  },
+  "sidebar.cmsSidebar.doc.Users & Permissions": {
+    "message": "Users & Permissions",
+    "description": "The label for the doc item Users & Permissions in sidebar cmsSidebar, linking to the doc cms/features/users-permissions"
+  },
+  "sidebar.cmsSidebar.doc.Documentation": {
+    "message": "Documentation",
+    "description": "The label for the doc item Documentation in sidebar cmsSidebar, linking to the doc cms/plugins/documentation"
+  },
+  "sidebar.cmsSidebar.doc.GraphQL": {
+    "message": "GraphQL",
+    "description": "The label for the doc item GraphQL in sidebar cmsSidebar, linking to the doc cms/plugins/graphql"
+  },
+  "sidebar.cmsSidebar.doc.Sentry": {
+    "message": "Sentry",
+    "description": "The label for the doc item Sentry in sidebar cmsSidebar, linking to the doc cms/plugins/sentry"
+  },
+  "sidebar.cmsSidebar.doc.Endpoints": {
+    "message": "Endpoints",
+    "description": "The label for the doc item Endpoints in sidebar cmsSidebar, linking to the doc cms/api/rest"
+  },
+  "sidebar.cmsSidebar.doc.Strapi Client": {
+    "message": "Strapi Client",
+    "description": "The label for the doc item Strapi Client in sidebar cmsSidebar, linking to the doc cms/api/client"
+  },
+  "sidebar.cmsSidebar.doc.Available methods": {
+    "message": "Available methods",
+    "description": "The label for the doc item Available methods in sidebar cmsSidebar, linking to the doc cms/api/document-service"
+  },
+  "sidebar.cmsSidebar.doc.Configurations introduction": {
+    "message": "Configurations introduction",
+    "description": "The label for the doc item Configurations introduction in sidebar cmsSidebar, linking to the doc cms/configurations"
+  },
+  "sidebar.cmsSidebar.doc.Database configuration": {
+    "message": "Database configuration",
+    "description": "The label for the doc item Database configuration in sidebar cmsSidebar, linking to the doc cms/configurations/database"
+  },
+  "sidebar.cmsSidebar.doc.Introduction": {
+    "message": "Introduction",
+    "description": "The label for the doc item Introduction in sidebar cmsSidebar, linking to the doc cms/typescript"
+  },
+  "sidebar.cmsSidebar.doc.Overview": {
+    "message": "Overview",
+    "description": "The label for the doc item Overview in sidebar cmsSidebar, linking to the doc cms/admin-panel-customization"
+  },
+  "sidebar.cmsSidebar.doc.Rich text editor": {
+    "message": "Rich text editor",
+    "description": "The label for the doc item Rich text editor in sidebar cmsSidebar, linking to the doc cms/admin-panel-customization/wysiwyg-editor"
+  },
+  "sidebar.cmsSidebar.doc.Admin panel extension": {
+    "message": "Admin panel extension",
+    "description": "The label for the doc item Admin panel extension in sidebar cmsSidebar, linking to the doc cms/admin-panel-customization/extension"
+  },
+  "sidebar.cmsSidebar.doc.Homepage customization": {
+    "message": "Homepage customization",
+    "description": "The label for the doc item Homepage customization in sidebar cmsSidebar, linking to the doc cms/admin-panel-customization/homepage"
+  },
+  "sidebar.cmsSidebar.doc.Configuration": {
+    "message": "Configuration",
+    "description": "The label for the doc item Configuration in sidebar cmsSidebar, linking to the doc cms/configurations/typescript"
+  },
+  "sidebar.cmsSidebar.doc.Development": {
+    "message": "Development",
+    "description": "The label for the doc item Development in sidebar cmsSidebar, linking to the doc cms/typescript/development"
+  },
+  "sidebar.cmsSidebar.doc.Guides": {
+    "message": "Guides",
+    "description": "The label for the doc item Guides in sidebar cmsSidebar, linking to the doc cms/typescript/guides"
+  },
+  "sidebar.cmsSidebar.doc.Marketplace": {
+    "message": "Marketplace",
+    "description": "The label for the doc item Marketplace in sidebar cmsSidebar, linking to the doc cms/plugins/installing-plugins-via-marketplace"
+  },
+  "sidebar.cmsSidebar.doc.Developing plugins": {
+    "message": "Developing plugins",
+    "description": "The label for the doc item Developing plugins in sidebar cmsSidebar, linking to the doc cms/plugins-development/developing-plugins"
+  },
+  "sidebar.cloudSidebar.category.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for category Getting Started in sidebar cloudSidebar"
+  },
+  "sidebar.cloudSidebar.category.Project deployment": {
+    "message": "Project deployment",
+    "description": "The label for category Project deployment in sidebar cloudSidebar"
+  },
+  "sidebar.cloudSidebar.category.Projects management": {
+    "message": "Projects management",
+    "description": "The label for category Projects management in sidebar cloudSidebar"
+  },
+  "sidebar.cloudSidebar.category.Deployments": {
+    "message": "Deployments",
+    "description": "The label for category Deployments in sidebar cloudSidebar"
+  },
+  "sidebar.cloudSidebar.category.Account management": {
+    "message": "Account management",
+    "description": "The label for category Account management in sidebar cloudSidebar"
+  },
+  "sidebar.cloudSidebar.category.Command Line Interface": {
+    "message": "Command Line Interface",
+    "description": "The label for category Command Line Interface in sidebar cloudSidebar"
+  },
+  "sidebar.cloudSidebar.category.Advanced configuration": {
+    "message": "Advanced configuration",
+    "description": "The label for category Advanced configuration in sidebar cloudSidebar"
+  },
+  "sidebar.cloudSidebar.doc.Cloud fundamentals": {
+    "message": "Cloud fundamentals",
+    "description": "The label for the doc item Cloud fundamentals in sidebar cloudSidebar, linking to the doc cloud/getting-started/cloud-fundamentals"
+  },
+  "sidebar.cloudSidebar.doc.Notifications": {
+    "message": "Notifications",
+    "description": "The label for the doc item Notifications in sidebar cloudSidebar, linking to the doc cloud/projects/notifications"
+  },
+  "sidebar.cloudSidebar.doc.Project settings": {
+    "message": "Project settings",
+    "description": "The label for the doc item Project settings in sidebar cloudSidebar, linking to the doc cloud/projects/settings"
+  },
+  "sidebar.cloudSidebar.doc.Account billing & invoices": {
+    "message": "Account billing & invoices",
+    "description": "The label for the doc item Account billing & invoices in sidebar cloudSidebar, linking to the doc cloud/account/account-billing"
+  },
+  "sidebar.cloudSidebar.doc.Strapi Cloud CLI": {
+    "message": "Strapi Cloud CLI",
+    "description": "The label for the doc item Strapi Cloud CLI in sidebar cloudSidebar, linking to the doc cloud/cli/cloud-cli"
+  },
+  "sidebar.cloudSidebar.doc.Email provider for Cloud": {
+    "message": "Email provider for Cloud",
+    "description": "The label for the doc item Email provider for Cloud in sidebar cloudSidebar, linking to the doc cloud/advanced/email"
+  },
+  "sidebar.cloudSidebar.doc.Upload provider for Cloud": {
+    "message": "Upload provider for Cloud",
+    "description": "The label for the doc item Upload provider for Cloud in sidebar cloudSidebar, linking to the doc cloud/advanced/upload"
+  }
+}

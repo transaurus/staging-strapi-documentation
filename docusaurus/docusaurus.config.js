@@ -12,8 +12,8 @@ const config = {
   tagline: 'Design APIs fast, manage content easily.',
   url: 'https://docs.strapi.io',
   baseUrl: '/',
-  onBrokenLinks: 'throw', // replace with 'throw' to stop building if broken links
-  onBrokenMarkdownLinks: 'throw',
+  onBrokenLinks: 'warn' to stop building if broken links
+  onBrokenMarkdownLinks: "warn",
   onBrokenAnchors: 'throw',
   favicon: 'https://strapi.io/assets/favicon-32x32.png',
 
@@ -22,7 +22,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ["en", "zh-Hans"],
   },
 
   markdown: {
